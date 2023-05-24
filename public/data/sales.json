@@ -1,0 +1,13 @@
+[
+  {
+    "id" : "sale_test1",
+    "name" : "sale_test1",
+    "price" : "50"
+  },
+  {
+    "id" : "sale_test2",
+    "name" : "sale_test2",
+    "price" : "50"
+  }
+
+]
